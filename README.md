@@ -1,2 +1,3 @@
-# teikotechnical
-This is a github repo for the Teiko Technical Assessment.
+# Teiko Technical Assessment
+
+Analysis of immune cell population data.
