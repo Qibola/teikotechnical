@@ -1,0 +1,32 @@
+Part 2 Findings - Responders vs Non-Responders
+
+Looking at the means generated from part2_analysis.py:
+
+b_cell_pct: 
+- responders: 29.2%
+- non-responders: 26.3%
+- small difference
+
+cd8_t_cell_pct:
+- responders: 20.5% 
+- non-responders: 20.7%
+- almost the same
+
+cd4_t_cell_pct:
+- responders: 36.3%
+- non-responders: 26.3%
+- big difference, responders have more cd4 t cells
+
+nk_cell_pct:
+- responders: 6.0%
+- non-responders: 6.0% 
+- same
+
+monocyte_pct:
+- responders: 8.0%
+- non-responders: 22.7%
+- big difference, non-responders have way more monocytes
+
+Conclusion:
+CD4 T cells and monocytes look most different between groups.
+Responders have more CD4 T cells, non-responders have more monocytes. 

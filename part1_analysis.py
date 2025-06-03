@@ -1,13 +1,9 @@
 import pandas as pd
 
-# load data 
+# load data lol its a csv file pasted and separted by tabs #stackoverflow
 data = pd.read_csv('cell-count.csv', sep='\t')
 
 print("loaded data")
-print(data.shape)
-
-# need to calculate percentages for each cell type
-# 5 cell types given in csv
 
 results = []
 
